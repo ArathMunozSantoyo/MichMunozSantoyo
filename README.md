@@ -13,7 +13,9 @@
   - [VPN setup in Virtual Machine](https://github.com/MichMunozSantoyo/VPN-Setup)
 <h2>🧰 Skills</h2>
 
+<b>PHP</b><br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="60"/><br>
+
 
 
 <h2>🤳Connect with me:</h2>
