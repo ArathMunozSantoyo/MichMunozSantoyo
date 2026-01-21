@@ -11,6 +11,11 @@
   - [Network Security Groups (NSGs) and Inspecting Network Protocols with WireShark](https://github.com/MichMunozSantoyo/azure-network-protocols)
 - <b>Virtual Private Network </b>
   - [VPN setup in Virtual Machine](https://github.com/MichMunozSantoyo/VPN-Setup)
+<h2>🧰 Skills</h2>
+
+<h3>PHP</h3>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="60"/>
+
 <h2>🤳Connect with me:</h2>
 
 
