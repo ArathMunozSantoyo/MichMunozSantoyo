@@ -1,4 +1,4 @@
-<h1>Hi, I'm Michel, an <a href="https://linkedin.com/in/arath-munoz-440b11272/">IT Professional</a>😁</h1>
+<h1>Hi, I'm Arath, an <a href="https://linkedin.com/in/arath-munoz-440b11272/">IT Professional</a>😁</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
