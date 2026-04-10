@@ -3,14 +3,14 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/MichMunozSantoyo/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/MichMunozSantoyo/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/MichMunozSantoyo/ticket-lifecycle)
+  - [osTicket: Prerequisites and Installation](https://github.com/ArathMunozSantoyo/osticket-prereqs)
+  - [osTicket: Post-Installation Configuration](https://github.com/ArathMunozSantoyo/post-install-config)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/ArathMunozSantoyo/ticket-lifecycle)
 - <b>Microsoft Azure</b>
-  - [Setting Up Active Directory Using VMs](https://github.com/MichMunozSantoyo/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols with WireShark](https://github.com/MichMunozSantoyo/azure-network-protocols)
+  - [Setting Up Active Directory Using VMs](https://github.com/ArathMunozSantoyo/configure-ad)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols with WireShark](https://github.com/ArathMunozSantoyo/azure-network-protocols)
 - <b>Virtual Private Network </b>
-  - [VPN setup in Virtual Machine](https://github.com/MichMunozSantoyo/VPN-Setup)
+  - [VPN setup in Virtual Machine](https://github.com/ArathMunozSantoyo/VPN-Setup)
 <h2>🧰 Skills</h2>
 
 <b>PHP</b><br>
